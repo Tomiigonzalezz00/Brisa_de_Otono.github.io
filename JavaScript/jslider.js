@@ -5,7 +5,7 @@ window.addEventListener('load',iniciar,false);
 var contador=0;
 
 function iniciar(){
-    setInterval('cambiarImg()',3500);
+    setInterval('cambiarImg()',2000);
 }
 
    var obj=document.getElementById('slider');
